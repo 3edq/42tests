@@ -1,1 +1,2 @@
-chmod +x ファイル名
+dont forget
+chmod +x ファイル
